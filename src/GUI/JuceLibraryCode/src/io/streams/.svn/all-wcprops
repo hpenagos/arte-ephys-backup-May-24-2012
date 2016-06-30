@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/409/trunk/src/GUI/JuceLibraryCode/src/io/streams
+END
+juce_GZIPCompressorOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_GZIPCompressorOutputStream.h
+END
+juce_GZIPDecompressorInputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/409/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_GZIPDecompressorInputStream.cpp
+END
+juce_GZIPDecompressorInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_GZIPDecompressorInputStream.h
+END
+juce_MemoryInputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_MemoryInputStream.cpp
+END
+juce_MemoryOutputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_MemoryOutputStream.cpp
+END
+juce_MemoryInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_MemoryInputStream.h
+END
+juce_SubregionStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_SubregionStream.cpp
+END
+juce_MemoryOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_MemoryOutputStream.h
+END
+juce_InputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_InputStream.cpp
+END
+juce_OutputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_OutputStream.cpp
+END
+juce_SubregionStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_SubregionStream.h
+END
+juce_BufferedInputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_BufferedInputStream.cpp
+END
+juce_FileInputSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_FileInputSource.cpp
+END
+juce_InputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_InputStream.h
+END
+juce_OutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_OutputStream.h
+END
+juce_BufferedInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_BufferedInputStream.h
+END
+juce_GZIPCompressorOutputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/409/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_GZIPCompressorOutputStream.cpp
+END
+juce_FileInputSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_FileInputSource.h
+END
+juce_InputSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/juce_InputSource.h
+END

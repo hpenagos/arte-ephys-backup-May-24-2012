@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/474/trunk/src/GUI/Source/Processors/Editors
+END
+FilterEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/Editors/FilterEditor.h
+END
+SpikeDetectorEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/422/trunk/src/GUI/Source/Processors/Editors/SpikeDetectorEditor.h
+END
+Visualizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/474/trunk/src/GUI/Source/Processors/Editors/Visualizer.h
+END
+SplitterEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/468/trunk/src/GUI/Source/Processors/Editors/SplitterEditor.h
+END
+SourceNodeEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/Editors/SourceNodeEditor.h
+END
+GenericEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/461/trunk/src/GUI/Source/Processors/Editors/GenericEditor.cpp
+END
+GenericEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/473/trunk/src/GUI/Source/Processors/Editors/GenericEditor.h
+END
+AudioEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/468/trunk/src/GUI/Source/Processors/Editors/AudioEditor.cpp
+END
+FilterEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/Editors/FilterEditor.cpp
+END
+SpikeDetectorEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/422/trunk/src/GUI/Source/Processors/Editors/SpikeDetectorEditor.cpp
+END
+Visualizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/473/trunk/src/GUI/Source/Processors/Editors/Visualizer.cpp
+END
+AudioEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/361/trunk/src/GUI/Source/Processors/Editors/AudioEditor.h
+END
+SplitterEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/468/trunk/src/GUI/Source/Processors/Editors/SplitterEditor.cpp
+END
+SourceNodeEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/Editors/SourceNodeEditor.cpp
+END

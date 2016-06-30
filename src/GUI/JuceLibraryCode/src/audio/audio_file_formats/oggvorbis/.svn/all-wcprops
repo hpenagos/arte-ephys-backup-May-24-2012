@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/310/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis
+END
+config_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/config_types.h
+END
+vorbisenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/vorbisenc.h
+END
+ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/ogg.h
+END
+Ogg Vorbis Licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/Ogg%20Vorbis%20Licence.txt
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/codec.h
+END
+framing.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/302/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/framing.c
+END
+juce_OggVorbisHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/juce_OggVorbisHeader.h
+END
+bitwise.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/bitwise.c
+END
+vorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/vorbisfile.h
+END
+os_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/os_types.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/293/trunk/src/GUI/JuceLibraryCode/src/io/files
+END
+juce_NamedPipe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_NamedPipe.cpp
+END
+juce_ZipFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_ZipFile.cpp
+END
+juce_NamedPipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_NamedPipe.h
+END
+juce_ZipFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_ZipFile.h
+END
+juce_FileInputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_FileInputStream.cpp
+END
+juce_FileOutputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_FileOutputStream.cpp
+END
+juce_DirectoryIterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_DirectoryIterator.cpp
+END
+juce_File.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/293/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_File.cpp
+END
+juce_FileInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_FileInputStream.h
+END
+juce_FileOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_FileOutputStream.h
+END
+juce_FileSearchPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_FileSearchPath.cpp
+END
+juce_TemporaryFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_TemporaryFile.cpp
+END
+juce_DirectoryIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_DirectoryIterator.h
+END
+juce_File.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/293/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_File.h
+END
+juce_TemporaryFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_TemporaryFile.h
+END
+juce_FileSearchPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/files/juce_FileSearchPath.h
+END

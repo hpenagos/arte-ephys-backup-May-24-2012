@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/colour
+END
+juce_Colour.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/colour/juce_Colour.h
+END
+juce_Colours.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/colour/juce_Colours.h
+END
+juce_ColourGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/colour/juce_ColourGradient.cpp
+END
+juce_PixelFormats.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/colour/juce_PixelFormats.h
+END
+juce_Colour.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/colour/juce_Colour.cpp
+END
+juce_ColourGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/colour/juce_ColourGradient.h
+END
+juce_Colours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/colour/juce_Colours.cpp
+END

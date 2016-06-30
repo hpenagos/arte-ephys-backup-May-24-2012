@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/474/trunk/src/GUI/Source/Processors
+END
+FilterNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/418/trunk/src/GUI/Source/Processors/FilterNode.h
+END
+ProcessorGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/ProcessorGraph.cpp
+END
+FileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/421/trunk/src/GUI/Source/Processors/FileReader.cpp
+END
+SpikeDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/SpikeDetector.cpp
+END
+ProcessorGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/470/trunk/src/GUI/Source/Processors/ProcessorGraph.h
+END
+SourceNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/SourceNode.cpp
+END
+ResamplingNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/428/trunk/src/GUI/Source/Processors/ResamplingNode.cpp
+END
+AudioNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/461/trunk/src/GUI/Source/Processors/AudioNode.cpp
+END
+FileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/418/trunk/src/GUI/Source/Processors/FileReader.h
+END
+SpikeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/SpikeDetector.h
+END
+DisplayNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/473/trunk/src/GUI/Source/Processors/DisplayNode.cpp
+END
+SourceNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/SourceNode.h
+END
+ResamplingNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/420/trunk/src/GUI/Source/Processors/ResamplingNode.h
+END
+GenericProcessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/474/trunk/src/GUI/Source/Processors/GenericProcessor.cpp
+END
+AudioNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/360/trunk/src/GUI/Source/Processors/AudioNode.h
+END
+DisplayNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/461/trunk/src/GUI/Source/Processors/DisplayNode.h
+END
+GenericProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/472/trunk/src/GUI/Source/Processors/GenericProcessor.h
+END
+SignalGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/359/trunk/src/GUI/Source/Processors/SignalGenerator.cpp
+END
+RecordNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/360/trunk/src/GUI/Source/Processors/RecordNode.cpp
+END
+EventNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/278/trunk/src/GUI/Source/Processors/EventNode.cpp
+END
+RecordNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/210/trunk/src/GUI/Source/Processors/RecordNode.h
+END
+SignalGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/357/trunk/src/GUI/Source/Processors/SignalGenerator.h
+END
+FilterNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/461/trunk/src/GUI/Source/Processors/FilterNode.cpp
+END
+EventNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/278/trunk/src/GUI/Source/Processors/EventNode.h
+END

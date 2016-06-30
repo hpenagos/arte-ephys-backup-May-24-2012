@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/382/trunk/lfpvis/opengl
+END
+linuxBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/376/trunk/lfpvis/opengl/linuxBuild.sh
+END
+macBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/373/trunk/lfpvis/opengl/macBuild.sh
+END
+simpleLfpPlot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/382/trunk/lfpvis/opengl/simpleLfpPlot.cpp
+END

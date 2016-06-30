@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows
+END
+juce_SplashScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_SplashScreen.cpp
+END
+juce_DialogWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_DialogWindow.h
+END
+juce_AlertWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_AlertWindow.cpp
+END
+juce_SplashScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_SplashScreen.h
+END
+juce_AlertWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_AlertWindow.h
+END
+juce_DocumentWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_DocumentWindow.cpp
+END
+juce_ResizableWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_ResizableWindow.cpp
+END
+juce_DocumentWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_DocumentWindow.h
+END
+juce_CallOutBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_CallOutBox.cpp
+END
+juce_ResizableWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_ResizableWindow.h
+END
+juce_ComponentPeer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_ComponentPeer.cpp
+END
+juce_ThreadWithProgressWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_ThreadWithProgressWindow.cpp
+END
+juce_CallOutBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_CallOutBox.h
+END
+juce_TooltipWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_TooltipWindow.cpp
+END
+juce_TopLevelWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_TopLevelWindow.cpp
+END
+juce_ComponentPeer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_ComponentPeer.h
+END
+juce_ThreadWithProgressWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_ThreadWithProgressWindow.h
+END
+juce_TooltipWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_TooltipWindow.h
+END
+juce_TopLevelWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_TopLevelWindow.h
+END
+juce_DialogWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/windows/juce_DialogWindow.cpp
+END

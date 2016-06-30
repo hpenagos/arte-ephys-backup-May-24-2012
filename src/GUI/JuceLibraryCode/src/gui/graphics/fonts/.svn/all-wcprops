@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts
+END
+juce_Font.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts/juce_Font.h
+END
+juce_GlyphArrangement.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts/juce_GlyphArrangement.h
+END
+juce_Typeface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts/juce_Typeface.cpp
+END
+juce_TextLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts/juce_TextLayout.cpp
+END
+juce_Typeface.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts/juce_Typeface.h
+END
+juce_Font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts/juce_Font.cpp
+END
+juce_TextLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts/juce_TextLayout.h
+END
+juce_GlyphArrangement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/fonts/juce_GlyphArrangement.cpp
+END

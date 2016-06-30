@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components
+END
+juce_ComponentListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/juce_ComponentListener.cpp
+END
+juce_Desktop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/juce_Desktop.cpp
+END
+juce_ModalComponentManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/juce_ModalComponentManager.cpp
+END
+juce_ComponentListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/juce_ComponentListener.h
+END
+juce_Desktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/juce_Desktop.h
+END
+juce_ModalComponentManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/juce_ModalComponentManager.h
+END
+juce_Component.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/juce_Component.cpp
+END
+juce_Component.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/juce_Component.h
+END

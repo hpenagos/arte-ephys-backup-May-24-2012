@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/506/trunk/src/extract
+END
+arte_to_tt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/261/trunk/src/extract/arte_to_tt.cpp
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/506/trunk/src/extract/build.sh
+END
+arte_to_tt.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/235/trunk/src/extract/arte_to_tt.h
+END
+arte_extract.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/506/trunk/src/extract/arte_extract.py
+END
+arte_to_mwl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/412/trunk/src/extract/arte_to_mwl.cpp
+END

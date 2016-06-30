@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/301/trunk/src/GUI/JuceLibraryCode/src/audio/midi
+END
+juce_MidiKeyboardState.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiKeyboardState.h
+END
+juce_MidiBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiBuffer.cpp
+END
+juce_MidiMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/301/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiMessage.h
+END
+juce_MidiMessageCollector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiMessageCollector.cpp
+END
+juce_MidiMessageSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiMessageSequence.cpp
+END
+juce_MidiBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiBuffer.h
+END
+juce_MidiFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiFile.cpp
+END
+juce_MidiMessageCollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiMessageCollector.h
+END
+juce_MidiKeyboardState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiKeyboardState.cpp
+END
+juce_MidiMessageSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiMessageSequence.h
+END
+juce_MidiFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiFile.h
+END
+juce_MidiMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/301/trunk/src/GUI/JuceLibraryCode/src/audio/midi/juce_MidiMessage.cpp
+END

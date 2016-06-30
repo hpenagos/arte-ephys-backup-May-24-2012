@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/295/trunk/src/GUI/JuceLibraryCode/src/native/linux
+END
+juce_linux_Messaging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Messaging.cpp
+END
+juce_linux_Midi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Midi.cpp
+END
+juce_linux_NativeIncludes.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_NativeIncludes.h
+END
+juce_linux_Network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Network.cpp
+END
+juce_linux_Fonts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Fonts.cpp
+END
+juce_linux_Threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Threads.cpp
+END
+juce_linux_JackAudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_JackAudio.cpp
+END
+juce_linux_AudioCDReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_AudioCDReader.cpp
+END
+juce_linux_Clipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Clipboard.cpp
+END
+juce_linux_Audio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/295/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Audio.cpp
+END
+juce_linux_Files.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Files.cpp
+END
+juce_linux_FileChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_FileChooser.cpp
+END
+juce_linux_SystemStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_SystemStats.cpp
+END
+juce_linux_WebBrowserComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_WebBrowserComponent.cpp
+END
+juce_linux_Windowing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/295/trunk/src/GUI/JuceLibraryCode/src/native/linux/juce_linux_Windowing.cpp
+END

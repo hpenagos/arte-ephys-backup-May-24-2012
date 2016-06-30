@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/common
+END
+juce_posix_SharedCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/common/juce_posix_SharedCode.h
+END
+juce_MidiDataConcatenator.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/common/juce_MidiDataConcatenator.h
+END
+juce_posix_NamedPipe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/common/juce_posix_NamedPipe.cpp
+END

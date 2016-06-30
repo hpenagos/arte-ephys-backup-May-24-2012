@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/libFLAC/include/protected
+END
+stream_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/libFLAC/include/protected/stream_encoder.h
+END
+stream_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/libFLAC/include/protected/stream_decoder.h
+END
+all.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/libFLAC/include/protected/all.h
+END

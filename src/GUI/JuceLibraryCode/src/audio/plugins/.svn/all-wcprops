@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/307/trunk/src/GUI/JuceLibraryCode/src/audio/plugins
+END
+juce_AudioPluginFormatManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_AudioPluginFormatManager.h
+END
+juce_AudioPluginFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_AudioPluginFormat.cpp
+END
+juce_AudioPluginInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_AudioPluginInstance.h
+END
+juce_KnownPluginList.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_KnownPluginList.h
+END
+juce_PluginListComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_PluginListComponent.cpp
+END
+juce_PluginDirectoryScanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_PluginDirectoryScanner.cpp
+END
+juce_AudioPluginFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_AudioPluginFormat.h
+END
+juce_PluginDirectoryScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_PluginDirectoryScanner.h
+END
+juce_PluginDescription.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_PluginDescription.cpp
+END
+juce_PluginListComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_PluginListComponent.h
+END
+juce_AudioPluginFormatManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_AudioPluginFormatManager.cpp
+END
+juce_AudioPluginInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_AudioPluginInstance.cpp
+END
+juce_KnownPluginList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_KnownPluginList.cpp
+END
+juce_PluginDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/plugins/juce_PluginDescription.h
+END

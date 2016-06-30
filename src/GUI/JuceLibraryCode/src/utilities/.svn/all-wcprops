@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities
+END
+juce_SelectedItemSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_SelectedItemSet.h
+END
+juce_DeletedAtShutdown.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_DeletedAtShutdown.h
+END
+juce_UndoableAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_UndoableAction.h
+END
+juce_PropertiesFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_PropertiesFile.cpp
+END
+juce_RecentlyOpenedFilesList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_RecentlyOpenedFilesList.cpp
+END
+juce_UndoManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_UndoManager.cpp
+END
+juce_PropertiesFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_PropertiesFile.h
+END
+juce_RecentlyOpenedFilesList.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_RecentlyOpenedFilesList.h
+END
+juce_UndoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_UndoManager.h
+END
+juce_SystemClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_SystemClipboard.h
+END
+juce_FileBasedDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_FileBasedDocument.cpp
+END
+juce_UnitTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_UnitTest.cpp
+END
+juce_FileBasedDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_FileBasedDocument.h
+END
+juce_UnitTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_UnitTest.h
+END
+juce_DeletedAtShutdown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/utilities/juce_DeletedAtShutdown.cpp
+END

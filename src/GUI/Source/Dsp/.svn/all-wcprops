@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp
+END
+Butterworth.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Butterworth.h
+END
+ChebyshevII.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/ChebyshevII.cpp
+END
+Biquad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Biquad.cpp
+END
+PoleFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/PoleFilter.cpp
+END
+Documentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Documentation.cpp
+END
+Design.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Design.cpp
+END
+Elliptic.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Elliptic.h
+END
+Custom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Custom.cpp
+END
+RBJ.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/RBJ.cpp
+END
+Bessel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Bessel.cpp
+END
+RootFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/RootFinder.h
+END
+Layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Layout.h
+END
+Cascade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Cascade.cpp
+END
+State.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/State.h
+END
+Params.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Params.h
+END
+Butterworth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Butterworth.cpp
+END
+Legendre.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Legendre.h
+END
+Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Filter.h
+END
+Dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Dsp.h
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Common.h
+END
+ChebyshevI.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/ChebyshevI.h
+END
+Param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Param.cpp
+END
+Elliptic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Elliptic.cpp
+END
+ChebyshevII.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/ChebyshevII.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Types.h
+END
+PoleFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/PoleFilter.h
+END
+Biquad.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Biquad.h
+END
+RootFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/RootFinder.cpp
+END
+MathSupplement.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/MathSupplement.h
+END
+Design.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Design.h
+END
+Custom.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Custom.h
+END
+State.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/State.cpp
+END
+Utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Utilities.h
+END
+RBJ.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/RBJ.h
+END
+Bessel.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Bessel.h
+END
+Legendre.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Legendre.cpp
+END
+Filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Filter.cpp
+END
+Cascade.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/Cascade.h
+END
+ChebyshevI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/ChebyshevI.cpp
+END
+SmoothedFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/src/GUI/Source/Dsp/SmoothedFilter.h
+END

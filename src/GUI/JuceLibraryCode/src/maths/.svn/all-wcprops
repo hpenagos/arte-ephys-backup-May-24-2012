@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/293/trunk/src/GUI/JuceLibraryCode/src/maths
+END
+juce_MathsFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/maths/juce_MathsFunctions.h
+END
+juce_Expression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/293/trunk/src/GUI/JuceLibraryCode/src/maths/juce_Expression.cpp
+END
+juce_BigInteger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/293/trunk/src/GUI/JuceLibraryCode/src/maths/juce_BigInteger.cpp
+END
+juce_Random.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/maths/juce_Random.cpp
+END
+juce_Range.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/maths/juce_Range.h
+END
+juce_BigInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/maths/juce_BigInteger.h
+END
+juce_Expression.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/maths/juce_Expression.h
+END
+juce_Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/maths/juce_Random.h
+END

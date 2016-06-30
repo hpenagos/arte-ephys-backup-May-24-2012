@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/280/trunk/src/toy_command
+END
+toy_command.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/265/trunk/src/toy_command/toy_command.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/265/trunk/src/toy_command/build.sh
+END
+toy_command.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/280/trunk/src/toy_command/toy_command.cpp
+END

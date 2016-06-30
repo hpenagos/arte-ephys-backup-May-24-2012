@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jddctmgr.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jerror.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdtrans.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jchuff.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcmaster.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jerror.h
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdmaster.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jmemnobs.c
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jchuff.h
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jidctfst.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdhuff.h
+END
+transupp.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/transupp.c
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcparam.c
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcinit.c
+END
+transupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/transupp.h
+END
+changes to libjpeg for JUCE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/changes%20to%20libjpeg%20for%20JUCE.txt
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jquant1.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jquant2.c
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcphuff.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdct.h
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdatasrc.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jccolor.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcsample.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcmarker.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jmemmgr.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdmarker.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jfdctflt.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jmorecfg.h
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdapistd.c
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jinclude.h
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jidctflt.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jversion.h
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jctrans.c
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/cderror.h
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jpegint.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jfdctint.c
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jidctint.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jutils.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcprepct.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/README
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdmerge.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdinput.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdcoefct.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/306/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jpeglib.h
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdphuff.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jidctred.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdpostct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdapimin.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jmemsys.h
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jdcolor.c
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/imaging/image_file_formats/jpglib/jcdctmgr.c
+END

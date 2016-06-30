@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/code_editor
+END
+juce_CPlusPlusCodeTokeniser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/code_editor/juce_CPlusPlusCodeTokeniser.cpp
+END
+juce_CodeEditorComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/code_editor/juce_CodeEditorComponent.h
+END
+juce_CodeDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/code_editor/juce_CodeDocument.cpp
+END
+juce_CPlusPlusCodeTokeniser.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/code_editor/juce_CPlusPlusCodeTokeniser.h
+END
+juce_CodeDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/code_editor/juce_CodeDocument.h
+END
+juce_CodeTokeniser.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/code_editor/juce_CodeTokeniser.h
+END
+juce_CodeEditorComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/code_editor/juce_CodeEditorComponent.cpp
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/special
+END
+juce_BubbleMessageComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_BubbleMessageComponent.h
+END
+juce_MagnifierComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_MagnifierComponent.h
+END
+juce_MidiKeyboardComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_MidiKeyboardComponent.h
+END
+juce_ActiveXControlComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_ActiveXControlComponent.h
+END
+juce_DropShadower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_DropShadower.cpp
+END
+juce_NSViewComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_NSViewComponent.h
+END
+juce_ColourSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_ColourSelector.cpp
+END
+juce_AudioDeviceSelectorComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_AudioDeviceSelectorComponent.cpp
+END
+juce_DropShadower.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_DropShadower.h
+END
+juce_OpenGLComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_OpenGLComponent.cpp
+END
+juce_WebBrowserComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_WebBrowserComponent.h
+END
+juce_ColourSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_ColourSelector.h
+END
+juce_AudioDeviceSelectorComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_AudioDeviceSelectorComponent.h
+END
+juce_OpenGLComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_OpenGLComponent.h
+END
+juce_BubbleComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_BubbleComponent.cpp
+END
+juce_SystemTrayIconComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_SystemTrayIconComponent.cpp
+END
+juce_PreferencesPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_PreferencesPanel.cpp
+END
+juce_QuickTimeMovieComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_QuickTimeMovieComponent.h
+END
+juce_BubbleMessageComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_BubbleMessageComponent.cpp
+END
+juce_BubbleComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_BubbleComponent.h
+END
+juce_MagnifierComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_MagnifierComponent.cpp
+END
+juce_SystemTrayIconComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_SystemTrayIconComponent.h
+END
+juce_PreferencesPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_PreferencesPanel.h
+END
+juce_MidiKeyboardComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/special/juce_MidiKeyboardComponent.cpp
+END

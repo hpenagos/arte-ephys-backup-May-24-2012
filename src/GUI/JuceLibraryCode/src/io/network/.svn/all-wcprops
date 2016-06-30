@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/network
+END
+juce_Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/network/juce_Socket.cpp
+END
+juce_MACAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/network/juce_MACAddress.h
+END
+juce_Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/network/juce_Socket.h
+END
+juce_URL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/network/juce_URL.cpp
+END
+juce_MACAddress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/network/juce_MACAddress.cpp
+END
+juce_URL.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/network/juce_URL.h
+END

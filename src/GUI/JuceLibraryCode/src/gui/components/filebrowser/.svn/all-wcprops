@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser
+END
+juce_FileFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileFilter.h
+END
+juce_FileChooserDialogBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileChooserDialogBox.cpp
+END
+juce_DirectoryContentsDisplayComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_DirectoryContentsDisplayComponent.cpp
+END
+juce_FileBrowserListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileBrowserListener.h
+END
+juce_FileListComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileListComponent.cpp
+END
+juce_WildcardFileFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_WildcardFileFilter.cpp
+END
+juce_DirectoryContentsDisplayComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_DirectoryContentsDisplayComponent.h
+END
+juce_FileChooserDialogBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileChooserDialogBox.h
+END
+juce_FileSearchPathListComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileSearchPathListComponent.cpp
+END
+juce_FileChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileChooser.cpp
+END
+juce_FileListComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileListComponent.h
+END
+juce_FilenameComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FilenameComponent.cpp
+END
+juce_WildcardFileFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_WildcardFileFilter.h
+END
+juce_FileBrowserComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileBrowserComponent.cpp
+END
+juce_FileSearchPathListComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileSearchPathListComponent.h
+END
+juce_FileChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileChooser.h
+END
+juce_ImagePreviewComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_ImagePreviewComponent.cpp
+END
+juce_FilenameComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FilenameComponent.h
+END
+juce_FilePreviewComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FilePreviewComponent.h
+END
+juce_FileBrowserComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileBrowserComponent.h
+END
+juce_ImagePreviewComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_ImagePreviewComponent.h
+END
+juce_DirectoryContentsList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_DirectoryContentsList.cpp
+END
+juce_FileTreeComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileTreeComponent.cpp
+END
+juce_DirectoryContentsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_DirectoryContentsList.h
+END
+juce_FileFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileFilter.cpp
+END
+juce_FileTreeComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/filebrowser/juce_FileTreeComponent.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/amalgamation
+END
+juce_amalgamated_template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/amalgamation/juce_amalgamated_template.cpp
+END
+juce_amalgamated_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/amalgamation/juce_amalgamated_template.h
+END
+juce_amalgamated1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/amalgamation/juce_amalgamated1.cpp
+END
+juce_amalgamated2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/amalgamation/juce_amalgamated2.cpp
+END
+juce_amalgamated3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/amalgamation/juce_amalgamated3.cpp
+END
+juce_amalgamated4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/amalgamation/juce_amalgamated4.cpp
+END

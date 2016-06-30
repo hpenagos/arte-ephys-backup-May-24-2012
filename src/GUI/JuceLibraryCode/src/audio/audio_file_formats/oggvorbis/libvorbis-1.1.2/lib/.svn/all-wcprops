@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/310/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/lsp.c
+END
+masking.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/masking.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/misc.h
+END
+floor0.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/floor0.c
+END
+floor1.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/floor1.c
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/lsp.h
+END
+registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/registry.c
+END
+mapping0.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/mapping0.c
+END
+psy.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/psy.c
+END
+envelope.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/envelope.c
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/registry.h
+END
+codec_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/codec_internal.h
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/lpc.c
+END
+backends.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/backends.h
+END
+psy.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/psy.h
+END
+envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/envelope.h
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/lpc.h
+END
+codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/codebook.c
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/os.h
+END
+synthesis.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/synthesis.c
+END
+bitrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/bitrate.c
+END
+codebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/codebook.h
+END
+vorbisenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/vorbisenc.c
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/info.c
+END
+bitrate.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/bitrate.h
+END
+smallft.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/smallft.c
+END
+vorbisfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/vorbisfile.c
+END
+smallft.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/smallft.h
+END
+lookup_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/lookup_data.h
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/window.c
+END
+res0.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/res0.c
+END
+lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/lookup.c
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/window.h
+END
+highlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/highlevel.h
+END
+lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/lookup.h
+END
+scales.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/scales.h
+END
+sharedbook.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/sharedbook.c
+END
+analysis.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/analysis.c
+END
+lookups.pl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/lookups.pl
+END
+mdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/mdct.c
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/block.c
+END
+mdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/oggvorbis/libvorbis-1.1.2/lib/mdct.h
+END

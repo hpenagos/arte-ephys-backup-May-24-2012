@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/trunk/src/GUI/JuceLibraryCode/src/audio/devices
+END
+juce_MidiOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_MidiOutput.h
+END
+juce_AudioIODevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_AudioIODevice.cpp
+END
+juce_AudioIODeviceType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_AudioIODeviceType.cpp
+END
+juce_AudioDeviceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/302/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_AudioDeviceManager.cpp
+END
+juce_AudioIODevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_AudioIODevice.h
+END
+juce_AudioIODeviceType.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_AudioIODeviceType.h
+END
+juce_AudioDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_AudioDeviceManager.h
+END
+juce_MidiOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_MidiOutput.cpp
+END
+juce_MidiInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/devices/juce_MidiInput.h
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/310/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats
+END
+juce_AudioSubsectionReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioSubsectionReader.h
+END
+juce_WavAudioFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/302/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_WavAudioFormat.cpp
+END
+juce_AudioThumbnailCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioThumbnailCache.cpp
+END
+juce_AudioCDBurner.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioCDBurner.h
+END
+juce_QuickTimeAudioFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_QuickTimeAudioFormat.h
+END
+juce_AudioCDReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioCDReader.cpp
+END
+juce_OggVorbisAudioFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_OggVorbisAudioFormat.cpp
+END
+juce_AudioFormatReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioFormatReader.cpp
+END
+juce_WavAudioFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_WavAudioFormat.h
+END
+juce_AudioThumbnailCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioThumbnailCache.h
+END
+juce_AudioCDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioCDReader.h
+END
+juce_FlacAudioFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_FlacAudioFormat.cpp
+END
+juce_AiffAudioFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AiffAudioFormat.cpp
+END
+juce_OggVorbisAudioFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_OggVorbisAudioFormat.h
+END
+juce_AudioFormatReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioFormatReader.h
+END
+juce_AiffAudioFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AiffAudioFormat.h
+END
+juce_AudioFormatManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioFormatManager.cpp
+END
+juce_AudioThumbnail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioThumbnail.cpp
+END
+juce_FlacAudioFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_FlacAudioFormat.h
+END
+juce_AudioFormatWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioFormatWriter.cpp
+END
+juce_AudioFormatManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioFormatManager.h
+END
+juce_AudioThumbnail.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioThumbnail.h
+END
+juce_AudioFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioFormat.cpp
+END
+juce_AudioFormatWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioFormatWriter.h
+END
+juce_AudioFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioFormat.h
+END
+juce_AudioSubsectionReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_AudioSubsectionReader.cpp
+END
+juce_QuickTimeAudioFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/juce_QuickTimeAudioFormat.cpp
+END

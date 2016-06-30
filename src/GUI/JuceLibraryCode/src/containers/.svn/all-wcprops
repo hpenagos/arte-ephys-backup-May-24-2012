@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/292/trunk/src/GUI/JuceLibraryCode/src/containers
+END
+juce_ValueTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/292/trunk/src/GUI/JuceLibraryCode/src/containers/juce_ValueTree.cpp
+END
+juce_NamedValueSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_NamedValueSet.cpp
+END
+juce_PropertySet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_PropertySet.cpp
+END
+juce_ValueTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_ValueTree.h
+END
+juce_NamedValueSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_NamedValueSet.h
+END
+juce_Variant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_Variant.cpp
+END
+juce_PropertySet.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_PropertySet.h
+END
+juce_AbstractFifo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_AbstractFifo.cpp
+END
+juce_Variant.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_Variant.h
+END
+juce_DynamicObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_DynamicObject.cpp
+END
+juce_Value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_Value.cpp
+END
+juce_AbstractFifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_AbstractFifo.h
+END
+juce_SparseSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_SparseSet.h
+END
+juce_DynamicObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_DynamicObject.h
+END
+juce_OwnedArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/292/trunk/src/GUI/JuceLibraryCode/src/containers/juce_OwnedArray.h
+END
+juce_SortedSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_SortedSet.h
+END
+juce_Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_Value.h
+END
+juce_Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/291/trunk/src/GUI/JuceLibraryCode/src/containers/juce_Array.h
+END
+juce_ArrayAllocationBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_ArrayAllocationBase.h
+END
+juce_ReferenceCountedArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/292/trunk/src/GUI/JuceLibraryCode/src/containers/juce_ReferenceCountedArray.h
+END
+juce_ElementComparator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/containers/juce_ElementComparator.h
+END

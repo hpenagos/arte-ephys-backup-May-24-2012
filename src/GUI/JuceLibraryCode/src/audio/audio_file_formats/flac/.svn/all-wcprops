@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/308/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac
+END
+alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/alloc.h
+END
+stream_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/302/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/stream_encoder.h
+END
+ordinals.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/ordinals.h
+END
+callback.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/callback.h
+END
+Flac Licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/Flac%20Licence.txt
+END
+stream_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/302/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/stream_decoder.h
+END
+metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/302/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/metadata.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/assert.h
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/export.h
+END
+all.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/all.h
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/302/trunk/src/GUI/JuceLibraryCode/src/audio/audio_file_formats/flac/format.h
+END

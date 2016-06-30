@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/510/trunk/scripts
+END
+build_backend.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/510/trunk/scripts/build_backend.sh
+END
+build_toy_spike_viewer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/414/trunk/scripts/build_toy_spike_viewer.sh
+END
+portmap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/437/trunk/scripts/portmap.txt
+END
+build_arte_to_mwl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/414/trunk/scripts/build_arte_to_mwl.sh
+END
+spkLinuxBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/403/trunk/scripts/spkLinuxBuild.sh
+END
+spkMacBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/402/trunk/scripts/spkMacBuild.sh
+END
+portmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/437/trunk/scripts/portmap.py
+END
+lfpLinuxBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/403/trunk/scripts/lfpLinuxBuild.sh
+END
+lfpMacBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/402/trunk/scripts/lfpMacBuild.sh
+END

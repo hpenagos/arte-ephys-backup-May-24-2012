@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/465/trunk/src/GUI/JuceLibraryCode/src
+END
+juce_app_includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/298/trunk/src/GUI/JuceLibraryCode/src/juce_app_includes.h
+END
+juce_WithoutMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/juce_WithoutMacros.h
+END
+juce_core_includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/juce_core_includes.h
+END
+juce_DefineMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/juce_DefineMacros.h
+END

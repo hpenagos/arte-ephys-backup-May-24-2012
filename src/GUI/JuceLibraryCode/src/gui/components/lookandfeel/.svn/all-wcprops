@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/lookandfeel
+END
+juce_LookAndFeel.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/lookandfeel/juce_LookAndFeel.h
+END
+juce_OldSchoolLookAndFeel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/lookandfeel/juce_OldSchoolLookAndFeel.cpp
+END
+juce_OldSchoolLookAndFeel.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/lookandfeel/juce_OldSchoolLookAndFeel.h
+END
+juce_LookAndFeel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/components/lookandfeel/juce_LookAndFeel.cpp
+END

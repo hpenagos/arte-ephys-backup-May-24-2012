@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/472/trunk/src/GUI/JuceLibraryCode
+END
+JuceHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/468/trunk/src/GUI/JuceLibraryCode/JuceHeader.h
+END
+juce_amalgamated.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/juce_amalgamated.h
+END
+AppConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/191/trunk/src/GUI/JuceLibraryCode/AppConfig.h
+END
+BinaryData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/472/trunk/src/GUI/JuceLibraryCode/BinaryData.cpp
+END
+JuceLibraryCode1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/350/trunk/src/GUI/JuceLibraryCode/JuceLibraryCode1.mm
+END
+JuceLibraryCode2.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/350/trunk/src/GUI/JuceLibraryCode/JuceLibraryCode2.mm
+END
+juce_Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/juce_Config.h
+END
+JuceLibraryCode3.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/350/trunk/src/GUI/JuceLibraryCode/JuceLibraryCode3.mm
+END
+JuceLibraryCode4.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/350/trunk/src/GUI/JuceLibraryCode/JuceLibraryCode4.mm
+END
+BinaryData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/472/trunk/src/GUI/JuceLibraryCode/BinaryData.h
+END
+JuceLibraryCode1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/350/trunk/src/GUI/JuceLibraryCode/JuceLibraryCode1.cpp
+END
+JuceLibraryCode2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/350/trunk/src/GUI/JuceLibraryCode/JuceLibraryCode2.cpp
+END
+JuceLibraryCode3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/350/trunk/src/GUI/JuceLibraryCode/JuceLibraryCode3.cpp
+END
+JuceLibraryCode4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/350/trunk/src/GUI/JuceLibraryCode/JuceLibraryCode4.cpp
+END
+juce.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/juce.h
+END

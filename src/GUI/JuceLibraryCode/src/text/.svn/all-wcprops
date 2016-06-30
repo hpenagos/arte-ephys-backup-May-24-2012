@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/294/trunk/src/GUI/JuceLibraryCode/src/text
+END
+juce_CharacterFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_CharacterFunctions.h
+END
+juce_XmlDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/294/trunk/src/GUI/JuceLibraryCode/src/text/juce_XmlDocument.cpp
+END
+juce_StringPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_StringPool.cpp
+END
+juce_XmlDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_XmlDocument.h
+END
+juce_StringPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_StringPool.h
+END
+juce_StringArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_StringArray.cpp
+END
+juce_NewLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_NewLine.h
+END
+juce_String.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/290/trunk/src/GUI/JuceLibraryCode/src/text/juce_String.cpp
+END
+juce_LocalisedStrings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_LocalisedStrings.cpp
+END
+juce_StringArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_StringArray.h
+END
+juce_XmlElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/294/trunk/src/GUI/JuceLibraryCode/src/text/juce_XmlElement.cpp
+END
+juce_String.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/290/trunk/src/GUI/JuceLibraryCode/src/text/juce_String.h
+END
+juce_LocalisedStrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_LocalisedStrings.h
+END
+juce_XmlElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/294/trunk/src/GUI/JuceLibraryCode/src/text/juce_XmlElement.h
+END
+juce_StringPairArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_StringPairArray.cpp
+END
+juce_Identifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_Identifier.cpp
+END
+juce_CharacterFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_CharacterFunctions.cpp
+END
+juce_StringPairArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_StringPairArray.h
+END
+juce_Identifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/text/juce_Identifier.h
+END

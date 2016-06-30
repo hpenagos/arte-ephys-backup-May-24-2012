@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/synthesisers
+END
+juce_Sampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/synthesisers/juce_Sampler.h
+END
+juce_Synthesiser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/synthesisers/juce_Synthesiser.cpp
+END
+juce_Sampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/synthesisers/juce_Sampler.cpp
+END
+juce_Synthesiser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/synthesisers/juce_Synthesiser.h
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/305/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/305/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/zutil.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/deflate.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/README
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/zutil.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/crc32.c
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/305/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/crc32.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/305/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/trees.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/inftrees.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/zconf.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/trees.h
+END
+zconf.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/zconf.in.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/io/streams/zlib/infback.c
+END

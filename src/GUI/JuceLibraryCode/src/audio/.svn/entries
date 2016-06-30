@@ -1,0 +1,52 @@
+10
+
+dir
+510
+https://arte-ephys.googlecode.com/svn/trunk/src/GUI/JuceLibraryCode/src/audio
+https://arte-ephys.googlecode.com/svn
+
+
+
+2011-09-06T01:03:32.793139Z
+465
+josh.siegle@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+718d65f8-612f-06f5-561c-51f91a6393aa
+
+plugins
+dir
+
+processors
+dir
+
+midi
+dir
+
+devices
+dir
+
+synthesisers
+dir
+
+audio_sources
+dir
+
+dsp
+dir
+
+audio_file_formats
+dir
+

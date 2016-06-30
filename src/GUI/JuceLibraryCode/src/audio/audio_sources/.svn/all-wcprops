@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources
+END
+juce_IIRFilterAudioSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_IIRFilterAudioSource.cpp
+END
+juce_MixerAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_MixerAudioSource.h
+END
+juce_AudioTransportSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_AudioTransportSource.cpp
+END
+juce_AudioSourcePlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_AudioSourcePlayer.cpp
+END
+juce_PositionableAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_PositionableAudioSource.h
+END
+juce_IIRFilterAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_IIRFilterAudioSource.h
+END
+juce_AudioSourcePlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_AudioSourcePlayer.h
+END
+juce_ResamplingAudioSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_ResamplingAudioSource.cpp
+END
+juce_AudioTransportSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_AudioTransportSource.h
+END
+juce_ResamplingAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_ResamplingAudioSource.h
+END
+juce_BufferingAudioSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_BufferingAudioSource.cpp
+END
+juce_AudioFormatReaderSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_AudioFormatReaderSource.cpp
+END
+juce_ChannelRemappingAudioSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_ChannelRemappingAudioSource.cpp
+END
+juce_BufferingAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_BufferingAudioSource.h
+END
+juce_ToneGeneratorAudioSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_ToneGeneratorAudioSource.cpp
+END
+juce_ChannelRemappingAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_ChannelRemappingAudioSource.h
+END
+juce_AudioFormatReaderSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_AudioFormatReaderSource.h
+END
+juce_ToneGeneratorAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_ToneGeneratorAudioSource.h
+END
+juce_MixerAudioSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_MixerAudioSource.cpp
+END
+juce_AudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/audio_sources/juce_AudioSource.h
+END

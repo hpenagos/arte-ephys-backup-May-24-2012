@@ -1,0 +1,7 @@
+ArtE-ephys Version 0.1
+
+Very early stages.  Building the basic program (when something goes up) can be done w/ the command:
+
+build.sh links the dl library, forgetting to do this will result in segfault when the program runs, as warned of here:
+ftp://ftp.ni.com/support/daq/linux/NI-DAQmx/8.0/README.txt (or search nidaqmx pthread)
+

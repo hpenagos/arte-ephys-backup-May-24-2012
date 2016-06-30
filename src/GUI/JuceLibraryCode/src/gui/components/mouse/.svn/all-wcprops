@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse
+END
+juce_DragAndDropContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_DragAndDropContainer.cpp
+END
+juce_MouseInputSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseInputSource.cpp
+END
+juce_MouseEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseEvent.cpp
+END
+juce_MouseCursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseCursor.h
+END
+juce_MouseHoverDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseHoverDetector.h
+END
+juce_DragAndDropContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_DragAndDropContainer.h
+END
+juce_ComponentDragger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_ComponentDragger.cpp
+END
+juce_MouseListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseListener.cpp
+END
+juce_TooltipClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_TooltipClient.h
+END
+juce_MouseInputSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseInputSource.h
+END
+juce_MouseEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseEvent.h
+END
+juce_FileDragAndDropTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_FileDragAndDropTarget.h
+END
+juce_DragAndDropTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_DragAndDropTarget.h
+END
+juce_MouseListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseListener.h
+END
+juce_ComponentDragger.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_ComponentDragger.h
+END
+juce_LassoComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_LassoComponent.h
+END
+juce_MouseHoverDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseHoverDetector.cpp
+END
+juce_MouseCursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/mouse/juce_MouseCursor.cpp
+END

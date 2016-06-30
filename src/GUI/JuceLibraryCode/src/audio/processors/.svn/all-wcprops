@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/465/trunk/src/GUI/JuceLibraryCode/src/audio/processors
+END
+juce_AudioProcessorEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessorEditor.cpp
+END
+juce_AudioProcessorGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/465/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessorGraph.h
+END
+juce_GenericAudioProcessorEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_GenericAudioProcessorEditor.h
+END
+juce_AudioProcessorListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessorListener.h
+END
+juce_AudioProcessorEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessorEditor.h
+END
+juce_AudioProcessorPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessorPlayer.cpp
+END
+juce_AudioPlayHead.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioPlayHead.h
+END
+juce_AudioProcessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessor.cpp
+END
+juce_AudioProcessorPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessorPlayer.h
+END
+juce_AudioProcessorGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/465/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessorGraph.cpp
+END
+juce_GenericAudioProcessorEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_GenericAudioProcessorEditor.cpp
+END
+juce_AudioProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/300/trunk/src/GUI/JuceLibraryCode/src/audio/processors/juce_AudioProcessor.h
+END

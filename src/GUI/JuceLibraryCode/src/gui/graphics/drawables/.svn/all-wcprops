@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables
+END
+juce_DrawableImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableImage.h
+END
+juce_DrawableText.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableText.h
+END
+juce_DrawablePath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawablePath.cpp
+END
+juce_DrawableShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableShape.cpp
+END
+juce_DrawablePath.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawablePath.h
+END
+juce_DrawableComposite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableComposite.cpp
+END
+juce_DrawableRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableRectangle.cpp
+END
+juce_DrawableShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableShape.h
+END
+juce_DrawableComposite.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableComposite.h
+END
+juce_DrawableRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableRectangle.h
+END
+juce_SVGParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_SVGParser.cpp
+END
+juce_Drawable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_Drawable.cpp
+END
+juce_DrawableImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableImage.cpp
+END
+juce_DrawableText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_DrawableText.cpp
+END
+juce_Drawable.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/drawables/juce_Drawable.h
+END

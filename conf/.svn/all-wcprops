@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/508/trunk/conf
+END
+arte_setup_default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/508/trunk/conf/arte_setup_default.conf
+END
+arte_session_default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/431/trunk/conf/arte_session_default.conf
+END
+launchLfpViewers.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/407/trunk/conf/launchLfpViewers.py
+END
+launchTetrodeViewers.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/410/trunk/conf/launchTetrodeViewers.py
+END

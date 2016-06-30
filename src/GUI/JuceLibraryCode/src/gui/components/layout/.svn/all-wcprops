@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout
+END
+juce_ScrollBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ScrollBar.h
+END
+juce_StretchableLayoutManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_StretchableLayoutManager.cpp
+END
+juce_ComponentBoundsConstrainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ComponentBoundsConstrainer.h
+END
+juce_StretchableObjectResizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_StretchableObjectResizer.cpp
+END
+juce_ComponentMovementWatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ComponentMovementWatcher.cpp
+END
+juce_StretchableLayoutResizerBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_StretchableLayoutResizerBar.h
+END
+juce_ComponentAnimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ComponentAnimator.cpp
+END
+juce_StretchableLayoutManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_StretchableLayoutManager.h
+END
+juce_ComponentMovementWatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ComponentMovementWatcher.h
+END
+juce_StretchableObjectResizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_StretchableObjectResizer.h
+END
+juce_ResizableBorderComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ResizableBorderComponent.cpp
+END
+juce_TabbedButtonBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_TabbedButtonBar.cpp
+END
+juce_ComponentAnimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ComponentAnimator.h
+END
+juce_TabbedComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_TabbedComponent.cpp
+END
+juce_ResizableBorderComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ResizableBorderComponent.h
+END
+juce_TabbedButtonBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_TabbedButtonBar.h
+END
+juce_TabbedComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_TabbedComponent.h
+END
+juce_MultiDocumentPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_MultiDocumentPanel.cpp
+END
+juce_ResizableCornerComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ResizableCornerComponent.cpp
+END
+juce_MultiDocumentPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_MultiDocumentPanel.h
+END
+juce_GroupComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_GroupComponent.cpp
+END
+juce_Viewport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_Viewport.cpp
+END
+juce_ResizableCornerComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ResizableCornerComponent.h
+END
+juce_ScrollBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ScrollBar.cpp
+END
+juce_GroupComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_GroupComponent.h
+END
+juce_Viewport.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_Viewport.h
+END
+juce_ComponentBoundsConstrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_ComponentBoundsConstrainer.cpp
+END
+juce_StretchableLayoutResizerBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/components/layout/juce_StretchableLayoutResizerBar.cpp
+END

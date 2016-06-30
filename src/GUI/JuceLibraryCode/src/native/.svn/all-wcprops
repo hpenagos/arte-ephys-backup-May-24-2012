@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native
+END
+juce_mac_NativeCode.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/juce_mac_NativeCode.mm
+END
+juce_linux_NativeCode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/juce_linux_NativeCode.cpp
+END
+juce_win32_NativeCode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/juce_win32_NativeCode.cpp
+END

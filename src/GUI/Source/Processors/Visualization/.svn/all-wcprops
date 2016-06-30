@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/474/trunk/src/GUI/Source/Processors/Visualization
+END
+SpikeViewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/474/trunk/src/GUI/Source/Processors/Visualization/SpikeViewer.h
+END
+LfpViewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/468/trunk/src/GUI/Source/Processors/Visualization/LfpViewer.cpp
+END
+LfpViewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/468/trunk/src/GUI/Source/Processors/Visualization/LfpViewer.h
+END
+SpikeViewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/474/trunk/src/GUI/Source/Processors/Visualization/SpikeViewer.cpp
+END

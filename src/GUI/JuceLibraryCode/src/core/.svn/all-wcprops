@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core
+END
+juce_RelativeTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_RelativeTime.cpp
+END
+juce_PlatformDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_PlatformDefs.h
+END
+juce_Time.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Time.cpp
+END
+juce_RelativeTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_RelativeTime.h
+END
+juce_TargetPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_TargetPlatform.h
+END
+juce_PerformanceCounter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_PerformanceCounter.cpp
+END
+juce_Time.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Time.h
+END
+juce_SystemStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_SystemStats.cpp
+END
+juce_PerformanceCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_PerformanceCounter.h
+END
+juce_Uuid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Uuid.cpp
+END
+juce_Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Singleton.h
+END
+juce_SystemStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_SystemStats.h
+END
+juce_Uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Uuid.h
+END
+juce_StandardHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_StandardHeader.h
+END
+juce_Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Logger.cpp
+END
+juce_FileLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_FileLogger.cpp
+END
+juce_Initialisation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Initialisation.cpp
+END
+juce_Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Logger.h
+END
+juce_FileLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_FileLogger.h
+END
+juce_PlatformUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_PlatformUtilities.h
+END
+juce_Initialisation.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/core/juce_Initialisation.h
+END

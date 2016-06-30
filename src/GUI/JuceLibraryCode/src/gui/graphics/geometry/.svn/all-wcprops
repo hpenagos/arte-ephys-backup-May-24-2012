@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry
+END
+juce_RelativeCoordinate.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_RelativeCoordinate.h
+END
+juce_AffineTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_AffineTransform.h
+END
+juce_PathStrokeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_PathStrokeType.h
+END
+juce_Line.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_Line.h
+END
+juce_Path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_Path.cpp
+END
+juce_Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_Point.h
+END
+juce_RectangleList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_RectangleList.cpp
+END
+juce_Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_Path.h
+END
+juce_PositionedRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_PositionedRectangle.cpp
+END
+juce_RectangleList.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_RectangleList.h
+END
+juce_PathIterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_PathIterator.cpp
+END
+juce_PositionedRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_PositionedRectangle.h
+END
+juce_BorderSize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_BorderSize.cpp
+END
+juce_Rectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_Rectangle.h
+END
+juce_PathIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_PathIterator.h
+END
+juce_BorderSize.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_BorderSize.h
+END
+juce_RelativeCoordinate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_RelativeCoordinate.cpp
+END
+juce_AffineTransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_AffineTransform.cpp
+END
+juce_PathStrokeType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/299/trunk/src/GUI/JuceLibraryCode/src/gui/graphics/geometry/juce_PathStrokeType.cpp
+END

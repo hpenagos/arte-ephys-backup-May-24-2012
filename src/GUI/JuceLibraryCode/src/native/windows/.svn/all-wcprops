@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows
+END
+juce_win32_OpenGLComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_OpenGLComponent.cpp
+END
+juce_win32_CameraDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_CameraDevice.cpp
+END
+juce_win32_Messaging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Messaging.cpp
+END
+juce_win32_QuickTimeMovieComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_QuickTimeMovieComponent.cpp
+END
+juce_win32_NativeIncludes.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_NativeIncludes.h
+END
+juce_win32_Midi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Midi.cpp
+END
+juce_win32_DirectSound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_DirectSound.cpp
+END
+juce_win32_WASAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_WASAPI.cpp
+END
+juce_win32_ActiveXComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_ActiveXComponent.cpp
+END
+juce_win32_Direct2DGraphicsContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Direct2DGraphicsContext.cpp
+END
+juce_win32_AutoLinkLibraries.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_AutoLinkLibraries.h
+END
+juce_win32_Network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Network.cpp
+END
+juce_win32_Fonts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Fonts.cpp
+END
+juce_win32_Threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Threads.cpp
+END
+juce_win32_Misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Misc.cpp
+END
+juce_win32_AudioCDReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_AudioCDReader.cpp
+END
+juce_win32_ASIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_ASIO.cpp
+END
+juce_win32_DynamicLibraryLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_DynamicLibraryLoader.cpp
+END
+juce_win32_FileChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_FileChooser.cpp
+END
+juce_win32_Files.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Files.cpp
+END
+juce_win32_SystemStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_SystemStats.cpp
+END
+juce_win32_WebBrowserComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_WebBrowserComponent.cpp
+END
+juce_win32_DynamicLibraryLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_DynamicLibraryLoader.h
+END
+juce_win32_PlatformUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/277/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_PlatformUtils.cpp
+END
+juce_win32_Windowing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/297/trunk/src/GUI/JuceLibraryCode/src/native/windows/juce_win32_Windowing.cpp
+END
